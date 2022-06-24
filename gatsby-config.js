@@ -1,7 +1,7 @@
 const lost = require('lost')
 const pxtorem = require('postcss-pxtorem')
 
-const url = 'https://quoluxducit.co.uk/'
+const url = 'https://gatsby-starter-kontent-lumen.netlify.com/'
 
 require('dotenv').config()
 
